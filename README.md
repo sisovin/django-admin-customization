@@ -1,4 +1,4 @@
-# Customizing the Django Admin with SimpleUI for a Sleek, Modern Interface
+# Django Admin Customization with SimpleUI for a Sleek, Modern Interface
 
 This project provides a comprehensive guide to upgrading your Django admin panel using **SimpleUI**, a modern and customizable admin interface. Additionally, we will implement user authentication (JWT-based login & signup), secure password hashing with **Argon2**, soft-delete functionality, **Redis caching**, and a PostgreSQL database. The project also includes a CRUD implementation for an e-commerce store using **Drizzle ORM**.
 
