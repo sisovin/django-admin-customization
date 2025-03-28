@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-argon2
+django-simpleui
+psycopg2-binary
+redis
